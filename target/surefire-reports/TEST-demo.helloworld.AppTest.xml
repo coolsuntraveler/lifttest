@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.674" errors="0" skipped="0" tests="2" name="demo.helloworld.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-6-openjdk/jre/lib/amd64"/>
+    <property name="java.vm.version" value="20.0-b11"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/jliu/code/reference/helloworld"/>
+    <property name="java.runtime.version" value="1.6.0_23-b23"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="basedir" value="/home/jliu/code/reference/helloworld"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-6-openjdk/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="/tmp/surefirebooter7886664051505914920.jar"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/lib/jvm/java-6-openjdk/jre/lib/amd64/server:/usr/lib/jvm/java-6-openjdk/jre/lib/amd64:/usr/lib/jvm/java-6-openjdk/jre/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="surefire.test.class.path" value="/home/jliu/code/reference/helloworld/target/test-classes:/home/jliu/code/reference/helloworld/target/classes:/home/jliu/.m2/repository/net/liftweb/lift-mapper/2.0/lift-mapper-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-webkit/2.0/lift-webkit-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-util/2.0/lift-util-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-actor/2.0/lift-actor-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-common/2.0/lift-common-2.0.jar:/home/jliu/.m2/repository/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.jar:/home/jliu/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar:/home/jliu/.m2/repository/org/scala-lang/scala-library/2.7.7/scala-library-2.7.7.jar:/home/jliu/.m2/repository/net/liftweb/lift-json/2.0/lift-json-2.0.jar:/home/jliu/.m2/repository/com/thoughtworks/paranamer/paranamer/2.0/paranamer-2.0.jar:/home/jliu/.m2/repository/javax/mail/mail/1.4.3-rc1/mail-1.4.3-rc1.jar:/home/jliu/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/jliu/.m2/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar:/home/jliu/.m2/repository/joda-time/joda-time/1.6/joda-time-1.6.jar:/home/jliu/.m2/repository/org/slf4j/slf4j-log4j12/1.5.11/slf4j-log4j12-1.5.11.jar:/home/jliu/.m2/repository/net/liftweb/lift-testkit/2.0/lift-testkit-2.0.jar:/home/jliu/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/jliu/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar:/home/jliu/.m2/repository/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar:/home/jliu/.m2/repository/com/h2database/h2/1.2.134/h2-1.2.134.jar:/home/jliu/.m2/repository/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.jar:/home/jliu/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/jliu/.m2/repository/junit/junit/4.7/junit-4.7.jar:/home/jliu/.m2/repository/org/mortbay/jetty/jetty/6.1.16/jetty-6.1.16.jar:/home/jliu/.m2/repository/org/mortbay/jetty/jetty-util/6.1.16/jetty-util-6.1.16.jar:/home/jliu/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar:/home/jliu/.m2/repository/org/scala-lang/scala-compiler/2.7.7/scala-compiler-2.7.7.jar:"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.0.0-12-generic"/>
+    <property name="user.home" value="/home/jliu"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="user.name" value="jliu"/>
+    <property name="java.class.path" value="/home/jliu/code/reference/helloworld/target/test-classes:/home/jliu/code/reference/helloworld/target/classes:/home/jliu/.m2/repository/net/liftweb/lift-mapper/2.0/lift-mapper-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-webkit/2.0/lift-webkit-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-util/2.0/lift-util-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-actor/2.0/lift-actor-2.0.jar:/home/jliu/.m2/repository/net/liftweb/lift-common/2.0/lift-common-2.0.jar:/home/jliu/.m2/repository/org/slf4j/slf4j-api/1.5.11/slf4j-api-1.5.11.jar:/home/jliu/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar:/home/jliu/.m2/repository/org/scala-lang/scala-library/2.7.7/scala-library-2.7.7.jar:/home/jliu/.m2/repository/net/liftweb/lift-json/2.0/lift-json-2.0.jar:/home/jliu/.m2/repository/com/thoughtworks/paranamer/paranamer/2.0/paranamer-2.0.jar:/home/jliu/.m2/repository/javax/mail/mail/1.4.3-rc1/mail-1.4.3-rc1.jar:/home/jliu/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/jliu/.m2/repository/commons-codec/commons-codec/1.3/commons-codec-1.3.jar:/home/jliu/.m2/repository/joda-time/joda-time/1.6/joda-time-1.6.jar:/home/jliu/.m2/repository/org/slf4j/slf4j-log4j12/1.5.11/slf4j-log4j12-1.5.11.jar:/home/jliu/.m2/repository/net/liftweb/lift-testkit/2.0/lift-testkit-2.0.jar:/home/jliu/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/home/jliu/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar:/home/jliu/.m2/repository/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar:/home/jliu/.m2/repository/com/h2database/h2/1.2.134/h2-1.2.134.jar:/home/jliu/.m2/repository/org/apache/derby/derby/10.5.3.0_1/derby-10.5.3.0_1.jar:/home/jliu/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar:/home/jliu/.m2/repository/junit/junit/4.7/junit-4.7.jar:/home/jliu/.m2/repository/org/mortbay/jetty/jetty/6.1.16/jetty-6.1.16.jar:/home/jliu/.m2/repository/org/mortbay/jetty/jetty-util/6.1.16/jetty-util-6.1.16.jar:/home/jliu/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar:/home/jliu/.m2/repository/org/scala-lang/scala-compiler/2.7.7/scala-compiler-2.7.7.jar:"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/lib/jvm/java-6-openjdk/jre"/>
+    <property name="sun.java.command" value="/tmp/surefirebooter7886664051505914920.jar /tmp/surefire6154462217040578818tmp /tmp/surefire406511273233703812tmp"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="en"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_23"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-6-openjdk/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-openjdk/jre/classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="/home/jliu/.m2/repository"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase time="0.627" classname="demo.helloworld.AppTest" name="testXml"/>
+  <testcase time="0" classname="demo.helloworld.AppTest" name="testOK"/>
+</testsuite>
